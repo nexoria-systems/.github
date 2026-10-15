@@ -7,7 +7,7 @@ Nexoria is a European work platform for company knowledge, enterprise search, AI
 - **Nex AI and enterprise search:** find information in permitted company documents and review answers through source references.
 - **Nexoria Drive:** organise files in your own knowledge store and access them as a drive in Windows Explorer.
 - **Doc, Calc and Slides:** work with documents, spreadsheets and presentations.
-- **DocStudio:** create new content from company knowledge.
+- **Documents in Nex:** create new content from company knowledge.
 - **Workspaces and permissions:** organise shared knowledge and team access.
 - **OCR and audio transcription:** make different content formats usable.
 - **Tasks, actions and automations:** connect knowledge with the next work step.
